@@ -1,0 +1,13 @@
+Brian Smith
+Data Analyst
+Summary
+Data analyst with 4 years of experience in analyzing business data to drive strategic decisions.
+Experience
+Data Analyst - DataSolutions (2021-2025)
+Performed data cleaning, visualization, and predictive modeling.
+Business Analyst - BizCorp (2019-2021)
+Gathered requirements and analyzed market trends.
+Skills
+SQL, Excel, Python, Tableau, Power BI
+Education
+B.A. Economics - City College (2019)
