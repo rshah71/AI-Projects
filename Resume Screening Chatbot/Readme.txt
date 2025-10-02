@@ -1,11 +1,9 @@
-This is a resume screening application where you paste a job description and uplaod your resume and it give give you report with score (out of 100) on how suitable this job is for you.
+This is a resume screening application that helps you evaluate your fit for a job. You simply paste the job description and upload your resume, and the app generates a detailed report along with a suitability score (out of 100).
 
-Setup:
-1) in the terminal, first install all the requirements
+Setup Instructions
+1. Install the required dependencies:
+    pip install langchain-community google-generativeai langchain-google-genai python-dotenv
+    pip install streamlit chromadb pypdf docx2txt
 
-pip install langchain-community google-generativeai langchain-google-genai python-dotenv
-pip install streamlit chromadb pypdf docx2txt
-
-2) Run the streamlit application 
-
-streamlit run app.py
+2. Launch the Streamlit application:
+    streamlit run app.py
